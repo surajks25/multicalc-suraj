@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+multicalc_suraj.egg-info/PKG-INFO
+multicalc_suraj.egg-info/SOURCES.txt
+multicalc_suraj.egg-info/dependency_links.txt
+multicalc_suraj.egg-info/top_level.txt
+multicalcs/__init__.py
+multicalcs/operations.py
